@@ -5,3 +5,9 @@ Im a cat
 var myVar = "Hello, world!";
 ```
 Javasciprt code
+
+Task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
